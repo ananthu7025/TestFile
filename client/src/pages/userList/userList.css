@@ -1,0 +1,11 @@
+.userList {
+  flex: 4;
+}
+
+.search{
+  float: right;
+  height: 36px;
+  border-radius: 40px;
+  width: 154px;
+  box-shadow: white;
+}
